@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#making an update before installation.
 sudo apt-get update
 sudo apt-get -y install nginx
 
